@@ -4,6 +4,9 @@
 ### vue
 
 * [vue 中文官网](https://cn.vuejs.org/v2/api/)
+* [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
+* [vue-router2](https://router.vuejs.org/zh-cn/index.html)
+* [vue-axios](https://github.com/mzabriskie/axios)
 
 ### react
 
@@ -49,6 +52,7 @@
 * [js获取url参数](http://www.cnblogs.com/gaojun/archive/2013/06/09/3129412.html)
 * [css常用效果总结](http://www.haorooms.com/post/css_common)
 * [js实现htmldecode 和 htmlencode](http://blog.csdn.net/cuixiping/article/details/7846806)
+* [玩转vue recource - 简书](http://www.jianshu.com/p/3ce2bd36596e)
 
 #### IDE
 

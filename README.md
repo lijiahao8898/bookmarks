@@ -1,38 +1,69 @@
 # bookmarks
 书签工程 - 记录该记录的，留下该留下的
 
-### vue
+#### 网站、社区
+* [掘金](http://gold.xitu.io/)
+* [ES6](http://es6.ruanyifeng.com/#docs/intro)
+* [git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [web前端网站](http://www.css88.com/)
+* [前端乱炖](http://www.html-js.com/)
+* [大搜车前端团队博客](http://f2e.souche.com/blog/)
+* [FED社区](http://frontenddev.org/)
+* [W3Cfuns](http://frontenddev.org/)
+* [慕课网](http://www.imooc.com/)
+* [微信公众平台](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433401084&token=&lang=zh_CN)
+* [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html)
+* [前端资源导航](http://www.css88.com/nav/)
+* [51CTO](http://blog.51cto.com/)
+
+#### vue
 
 * [vue 中文官网](https://cn.vuejs.org/v2/api/)
 * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
 * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
 * [vue-axios](https://github.com/mzabriskie/axios)
 
-### react
+#### react
 
 * [react 中文官网](https://discountry.github.io/react/)
 * [react 中文社区](http://react-china.org/)
 * [redux 中文网](http://cn.redux.js.org//index.html)
 * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
-### react native
+#### react native
+
 * [react native 中文管网](http://reactnative.cn/)
 
-### ESLint
+#### ESLint
 
 * [ESLint 中文网](http://eslint.cn/docs/rules/)
 
-### node
+#### node
 
 * [commonJS 规范 - 阮一峰](http://javascript.ruanyifeng.com/nodejs/module.html#)
 
-### UI
+#### UI
 
 * [基于zepto的frozenui](http://frozenui.github.io/frozenjs/effect/parallax/index.html)
 * [elementUI](http://element.eleme.io/#/zh-CN/component/i18n)
 * [adminLTE](https://adminlte.io/themes/AdminLTE/documentation/index.html)
 * [bootstrap template](https://startbootstrap.com/template-overviews/grayscale/)
-### help
+* [H-ui前端框架简单 · 免费 · 适合中国网站](http://www.h-ui.net/Hui-4.4-slider.shtml)
+* [react-native](http://reactnative.cn/)：http://reactnative.cn/
+* [angular.js](http://www.apjs.net/#dir33)：http://www.apjs.net/#dir33
+* [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
+* [图片ECharts2](http://echarts.baidu.com/option.html#title)
+* [Juicer模板](http://juicer.name/docs/docs_zh_cn.html)
+* [google前端框架](http://www.material-ui.com/#/components/circular-progress)
+* [amazeUi](http://amazeui.org/javascript/tabs)
+* [AUi](http://www.auicss.com/?m=Home&c=Document#pullrefresh)
+* [MUi](http://dev.dcloud.net.cn/mui/)
+* [KISSY](http://docs.kissyui.com/1.4/docs/html/guideline/get-started.html)
+* [Font Awesome](http://fontawesome.dashgame.com/)
+* [AdminLTE：后台UI](https://almsaeedstudio.com/AdminLTE)
+* [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
+
+#### help
 
 * [json在线转换](http://www.json.cn/)
 * [can i use](http://caniuse.com/)
@@ -53,15 +84,24 @@
 * [css常用效果总结](http://www.haorooms.com/post/css_common)
 * [js实现htmldecode 和 htmlencode](http://blog.csdn.net/cuixiping/article/details/7846806)
 * [玩转vue recource - 简书](http://www.jianshu.com/p/3ce2bd36596e)
+* [github issues](https://github.com/amfe/article/issues)
+* [最新最好的bootstrap免费主题](http://www.open-open.com/news/view/1bde2f8)
+* [jquery 在textarea 指定 位置处 插入内容](http://blog.csdn.net/z69183787/article/details/17393159)
+* [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
+* [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
 
-#### IDE
+#### IDE or tool
 
 * [websotrm download for mac](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
 * [websotrm 破解](http://blog.csdn.net/it_talk/article/details/52448597)
 * [atom](https://atom.io/)
+* [马克鳗](http://www.getmarkman.com/)
 
 #### plugin
 
+* [D3](https://github.com/d3/d3/wiki/Gallery)
+* [lonicons](http://ionicons.com/)
+* [dowebok](http://www.dowebok.com/)
 * [css 如何让你的文字更有文艺范](https://juejin.im/entry/5997cd576fb9a02493220164)
 * [css3 hover 大法](http://www.jq22.com/yanshi2597)
 * [H5颜色渐变3D文字特效](http://www.html5tricks.com/demo/html5-gradient-3d-text/index.html)
@@ -69,3 +109,7 @@
 * [人物头像跟随鼠标动](http://www.jq22.com/yanshi4047)
 * [按钮风格20种](http://www.jq22.com/yanshi4652)
 * [jq slidize - 带有回调的幻灯片插件](http://www.dowebok.com/194.html)
+
+#### 命名规范
+* [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
+* [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)

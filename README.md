@@ -116,4 +116,5 @@
 
 #### article
 * [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
-
+* [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
+* [github - 这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)

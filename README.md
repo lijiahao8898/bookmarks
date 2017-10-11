@@ -16,11 +16,15 @@
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
 
+#### webpack
+
+* [webpack中文网](http://www.css88.com/doc/webpack2/)
+
 #### vue
 
 * [vue 中文官网](https://cn.vuejs.org/v2/api/)
 * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
-* [vue-loader cn](https://vue-loader.vuejs.org/zh-cn/)
+* [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
 * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
 * [vue-axios](https://github.com/mzabriskie/axios)
 

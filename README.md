@@ -3,7 +3,7 @@
 
 #### 网站、社区
 * [掘金](http://gold.xitu.io/)
-* [ES6](http://es6.ruanyifeng.com/#docs/intro)
+* [ES6入门 - 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [web前端网站](http://www.css88.com/)
 * [前端乱炖](http://www.html-js.com/)
@@ -20,6 +20,7 @@
 
 * [vue 中文官网](https://cn.vuejs.org/v2/api/)
 * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
+* [vue-loader cn](https://vue-loader.vuejs.org/zh-cn/)
 * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
 * [vue-axios](https://github.com/mzabriskie/axios)
 

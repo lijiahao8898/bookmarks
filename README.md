@@ -16,13 +16,9 @@
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
 
-#### webpack
-
-* [webpack中文网](http://www.css88.com/doc/webpack2/)
-
 #### vue
 
-* [vue 中文官网](https://cn.vuejs.org/v2/api/)
+* [vue 中文网](https://cn.vuejs.org/v2/api/)
 * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
 * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
 * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
@@ -38,6 +34,16 @@
 #### react native
 
 * [react native 中文网](http://reactnative.cn/)
+
+#### babel
+
+* [babel 中文网](http://babeljs.cn/)
+* [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
+* [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
+
+#### webpack
+
+* [webpack 中文网](http://www.css88.com/doc/webpack2/)
 
 #### ESLint
 
@@ -63,7 +69,12 @@
   * [AdminLTE：后台UI](https://almsaeedstudio.com/AdminLTE)
   * [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
 
+#### css3
+
+* [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
+
 #### icon
+
 * [Font Awesome](http://fontawesome.dashgame.com/)
 * [lonicons](http://ionicons.com/)
 
@@ -93,6 +104,7 @@
 * [websotrm 破解](http://blog.csdn.net/it_talk/article/details/52448597)
 * [atom](https://atom.io/)
 * [马克鳗](http://www.getmarkman.com/)
+* [gitbook git README.md编辑器](https://www.gitbook.com/)
 
 #### plugin
 
@@ -135,3 +147,4 @@
 * [jquery 在textarea 指定 位置处 插入内容](http://blog.csdn.net/z69183787/article/details/17393159)
 * [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
 * [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
+* [我想转行之----微信浏览器缓存 - 简书](http://www.jianshu.com/p/cce9511c0914)

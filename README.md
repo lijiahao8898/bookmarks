@@ -58,7 +58,7 @@
 * [hexo 中文网](https://hexo.io/zh-cn/docs/)
 * [jekyll 中文网](http://jekyll.com.cn/)
 
-#### UI
+#### UI template
 
 - H5 · UI
   * [基于zepto的frozenui](http://frozenui.github.io/frozenjs/effect/parallax/index.html)
@@ -74,9 +74,13 @@
   * [AdminLTE：后台UI](https://almsaeedstudio.com/AdminLTE)
   * [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
 
-#### css3
+#### style
 
-* [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
+- css
+  * [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
+- sass
+  * [sass入门](http://www.w3cplus.com/sassguide/)
+- less
 
 #### icon
 

@@ -53,6 +53,11 @@
 
 * [commonJS 规范 - 阮一峰](http://javascript.ruanyifeng.com/nodejs/module.html#)
 
+#### blog
+
+* [hexo 中文网](https://hexo.io/zh-cn/docs/)
+* [jekyll 中文网](http://jekyll.com.cn/)
+
 #### UI
 
 - H5 · UI

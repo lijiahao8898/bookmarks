@@ -1,6 +1,10 @@
 # bookmarks
 书签工程 - 记录该记录的，留下该留下的
 
+> At the end of the day if I can change one persons life for the better, 
+> I've won. And open source and the incredible blessings it has provided me, 
+> have been the perfect vessel to continue that mission. — Sean Larkin
+
 #### 网站、社区
 * [掘金](http://gold.xitu.io/)
 * [ES6入门 - 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
@@ -17,7 +21,6 @@
 * [51CTO](http://blog.51cto.com/)
 
 #### vue
-
 * [vue 中文网](https://cn.vuejs.org/v2/api/)
 * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
 * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
@@ -25,41 +28,33 @@
 * [vue-axios](https://github.com/mzabriskie/axios)
 
 #### react
-
 * [react 中文官网](https://discountry.github.io/react/)
 * [react 中文社区](http://react-china.org/)
 * [redux 中文网](http://cn.redux.js.org//index.html)
 * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 #### react native
-
 * [react native 中文网](http://reactnative.cn/)
 
 #### babel
-
 * [babel 中文网](http://babeljs.cn/)
 * [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
 * [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
 
 #### webpack
-
 * [webpack 中文网](http://www.css88.com/doc/webpack2/)
 
 #### ESLint
-
 * [ESLint 中文网](http://eslint.cn/docs/rules/)
 
 #### node
-
 * [commonJS 规范 - 阮一峰](http://javascript.ruanyifeng.com/nodejs/module.html#)
 
 #### blog
-
 * [hexo 中文网](https://hexo.io/zh-cn/docs/)
 * [jekyll 中文网](http://jekyll.com.cn/)
 
 #### UI template
-
 - H5 · UI
   * [基于zepto的frozenui](http://frozenui.github.io/frozenjs/effect/parallax/index.html)
   * [AUi](http://www.auicss.com/?m=Home&c=Document#pullrefresh)
@@ -75,7 +70,6 @@
   * [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
 
 #### style
-
 - css
   * [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
 - sass
@@ -83,18 +77,15 @@
 - less
 
 #### icon
-
 * [Font Awesome](http://fontawesome.dashgame.com/)
 * [lonicons](http://ionicons.com/)
 
 #### 图表
-
 * [D3](https://github.com/d3/d3/wiki/Gallery)
 * [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
 * [图片ECharts2](http://echarts.baidu.com/option.html#title)
 
 #### 模板语言
-
 * [Juicer](http://juicer.name/docs/docs_zh_cn.html)
 * [underscore](http://www.css88.com/doc/underscore1.8.2/)
 * [jade](http://jade-lang.com/)
@@ -102,13 +93,11 @@
 * [KISSY](http://docs.kissyui.com/1.4/docs/html/guideline/get-started.html)
 
 #### help
-
 * [json在线转换](http://www.json.cn/)
 * [can i use](http://caniuse.com/)
 * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
 
 #### IDE or tool
-
 * [websotrm download for mac](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
 * [websotrm 破解](http://blog.csdn.net/it_talk/article/details/52448597)
 * [atom](https://atom.io/)
@@ -116,7 +105,6 @@
 * [gitbook git README.md编辑器](https://www.gitbook.com/)
 
 #### plugin
-
 * [dowebok](http://www.dowebok.com/)
 * [css 如何让你的文字更有文艺范](https://juejin.im/entry/5997cd576fb9a02493220164)
 * [css3 hover 大法](http://www.jq22.com/yanshi2597)
@@ -137,7 +125,6 @@
 
 
 #### other
-
 * [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)
 * [移动端兼容性问题解决方案](http://www.cnblogs.com/wangpenghui522/p/5398137.html)
 * [js原型链 - 知乎](https://zhuanlan.zhihu.com/p/22189387)

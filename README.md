@@ -27,38 +27,38 @@
 
 ### 框架
 - vue
- * [vue 中文网](https://cn.vuejs.org/v2/api/)
- * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
- * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
- * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
- * [vue-axios](https://github.com/mzabriskie/axios)
+  * [vue 中文网](https://cn.vuejs.org/v2/api/)
+  * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
+  * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
+  * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
+  * [vue-axios](https://github.com/mzabriskie/axios)
 - react
- * [react 中文官网](https://discountry.github.io/react/)
- * [react 中文社区](http://react-china.org/)
- * [redux 中文网](http://cn.redux.js.org//index.html)
- * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
+  * [react 中文官网](https://discountry.github.io/react/)
+  * [react 中文社区](http://react-china.org/)
+  * [redux 中文网](http://cn.redux.js.org//index.html)
+  * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - react native
- * [react native 中文网](http://reactnative.cn/)
+  * [react native 中文网](http://reactnative.cn/)
  
 ### tool
 - git
- * [git · 简易指南](http://www.bootcss.com/p/git-guide/)
- * [git · 从入门到专家指南](https://progit.bootcss.com/)
- * [git · 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+  * [git · 简易指南](http://www.bootcss.com/p/git-guide/)
+  * [git · 从入门到专家指南](https://progit.bootcss.com/)
+  * [git · 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - webpack
- * [webpack 中文网](http://www.css88.com/doc/webpack2/)
+  * [webpack 中文网](http://www.css88.com/doc/webpack2/)
 - grunt
 - gulp
 - ESLint
- * [ESLint 中文网](http://eslint.cn/docs/rules/)
+  * [ESLint 中文网](http://eslint.cn/docs/rules/)
 - babel
- * [babel 中文网](http://babeljs.cn/)
- * [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
- * [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
+  * [babel 中文网](http://babeljs.cn/)
+  * [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
+  * [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
 - help me
- * [json在线转换](http://www.json.cn/)
- * [can i use](http://caniuse.com/)
- * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
+  * [json在线转换](http://www.json.cn/)
+  * [can i use](http://caniuse.com/)
+  * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
  
 ### bootstrap
 * [bootstrap](http://www.bootcss.com/)
@@ -69,8 +69,8 @@
 #### blog
 * [hexo 中文网](https://hexo.io/zh-cn/docs/)
 - jekyll
- * [jekyll 中文网](http://jekyll.com.cn/)
- * [liquid · jekyll模板语言](https://liquid.bootcss.com/basics/introduction/)
+  * [jekyll 中文网](http://jekyll.com.cn/)
+  * [liquid · jekyll模板语言](https://liquid.bootcss.com/basics/introduction/)
 * [markdown · markdown语法简明](http://www.appinn.com/markdown/)
 
 #### UI template
@@ -88,9 +88,9 @@
   * [AdminLTE：后台UI](https://almsaeedstudio.com/AdminLTE)
   * [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
 - 图表
- * [D3](https://github.com/d3/d3/wiki/Gallery)
- * [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
- * [图片ECharts2](http://echarts.baidu.com/option.html#title)
+  * [D3](https://github.com/d3/d3/wiki/Gallery)
+  * [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
+  * [图片ECharts2](http://echarts.baidu.com/option.html#title)
 
 #### style
 - css
@@ -101,8 +101,8 @@
   * [sass入门](http://www.w3cplus.com/sassguide/)
 - less
 - icon
- * [Font Awesome](http://fontawesome.dashgame.com/)
- * [lonicons](http://ionicons.com/)
+  * [Font Awesome](http://fontawesome.dashgame.com/)
+  * [lonicons](http://ionicons.com/)
 
 #### 模板语言
 * [Juicer](http://juicer.name/docs/docs_zh_cn.html)

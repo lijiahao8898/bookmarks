@@ -1,14 +1,13 @@
-# bookmarks
-书签工程 - 记录该记录的，留下该留下的
+## bookmarks
+书签工程 - 记录该记录的，留下该留下的。
 
 > At the end of the day if I can change one persons life for the better, 
 > I've won. And open source and the incredible blessings it has provided me, 
 > have been the perfect vessel to continue that mission. — Sean Larkin
 
-#### 网站、社区
+### 网站、社区
 * [掘金](http://gold.xitu.io/)
-* [ES6入门 - 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
-* [git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [web前端网站](http://www.css88.com/)
 * [前端乱炖](http://www.html-js.com/)
 * [大搜车前端团队博客](http://f2e.souche.com/blog/)
@@ -20,39 +19,59 @@
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
 
-#### vue
-* [vue 中文网](https://cn.vuejs.org/v2/api/)
-* [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
-* [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
-* [vue-router2](https://router.vuejs.org/zh-cn/index.html)
-* [vue-axios](https://github.com/mzabriskie/axios)
+### 规范
+* [编码规范](http://codeguide.bootcss.com/)
+* [w3schools](http://w3schools.bootcss.com/default.html)
+* [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
+* [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)
 
-#### react
-* [react 中文官网](https://discountry.github.io/react/)
-* [react 中文社区](http://react-china.org/)
-* [redux 中文网](http://cn.redux.js.org//index.html)
-* [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-
-#### react native
-* [react native 中文网](http://reactnative.cn/)
-
-#### babel
-* [babel 中文网](http://babeljs.cn/)
-* [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
-* [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
-
-#### webpack
-* [webpack 中文网](http://www.css88.com/doc/webpack2/)
-
-#### ESLint
-* [ESLint 中文网](http://eslint.cn/docs/rules/)
+### 框架
+- vue
+ * [vue 中文网](https://cn.vuejs.org/v2/api/)
+ * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
+ * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
+ * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
+ * [vue-axios](https://github.com/mzabriskie/axios)
+- react
+ * [react 中文官网](https://discountry.github.io/react/)
+ * [react 中文社区](http://react-china.org/)
+ * [redux 中文网](http://cn.redux.js.org//index.html)
+ * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
+- react native
+ * [react native 中文网](http://reactnative.cn/)
+ 
+### tool
+- git
+ * [git · 简易指南](http://www.bootcss.com/p/git-guide/)
+ * [git · 从入门到专家指南](https://progit.bootcss.com/)
+ * [git · 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- webpack
+ * [webpack 中文网](http://www.css88.com/doc/webpack2/)
+- grunt
+- gulp
+- ESLint
+ * [ESLint 中文网](http://eslint.cn/docs/rules/)
+- babel
+ * [babel 中文网](http://babeljs.cn/)
+ * [babel - 阮一峰](http://www.ruanyifeng.com/blog/2016/01/babel.html)
+ * [.babelrc配置简单解析](https://excaliburhan.com/post/babel-preset-and-plugins.html)
+- help me
+ * [json在线转换](http://www.json.cn/)
+ * [can i use](http://caniuse.com/)
+ * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
+ 
+### bootstrap
+* [bootstrap](http://www.bootcss.com/)
 
 #### node
 * [commonJS 规范 - 阮一峰](http://javascript.ruanyifeng.com/nodejs/module.html#)
 
 #### blog
 * [hexo 中文网](https://hexo.io/zh-cn/docs/)
-* [jekyll 中文网](http://jekyll.com.cn/)
+- jekyll
+ * [jekyll 中文网](http://jekyll.com.cn/)
+ * [liquid · jekyll模板语言](https://liquid.bootcss.com/basics/introduction/)
+* [markdown · markdown语法简明](http://www.appinn.com/markdown/)
 
 #### UI template
 - H5 · UI
@@ -68,22 +87,22 @@
   * [amazeUi](http://amazeui.org/javascript/tabs)
   * [AdminLTE：后台UI](https://almsaeedstudio.com/AdminLTE)
   * [AdminLTE](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
+- 图表
+ * [D3](https://github.com/d3/d3/wiki/Gallery)
+ * [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
+ * [图片ECharts2](http://echarts.baidu.com/option.html#title)
 
 #### style
 - css
   * [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
+  * [button · 各种样式风格 · github](https://github.com/alexwolfe/Buttons)
+  * [button · 各种样式风格 · 中文文档](http://www.bootcss.com/p/buttons/)
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)
 - less
-
-#### icon
-* [Font Awesome](http://fontawesome.dashgame.com/)
-* [lonicons](http://ionicons.com/)
-
-#### 图表
-* [D3](https://github.com/d3/d3/wiki/Gallery)
-* [图形ECharts](http://echarts.baidu.com/echarts2/doc/example.html)
-* [图片ECharts2](http://echarts.baidu.com/option.html#title)
+- icon
+ * [Font Awesome](http://fontawesome.dashgame.com/)
+ * [lonicons](http://ionicons.com/)
 
 #### 模板语言
 * [Juicer](http://juicer.name/docs/docs_zh_cn.html)
@@ -92,12 +111,7 @@
 * [jade 中文](http://cnodejs.org/topic/5368adc5cf738dd6090060f2)
 * [KISSY](http://docs.kissyui.com/1.4/docs/html/guideline/get-started.html)
 
-#### help
-* [json在线转换](http://www.json.cn/)
-* [can i use](http://caniuse.com/)
-* [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
-
-#### IDE or tool
+#### IDE or app
 * [websotrm download for mac](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
 * [websotrm 破解](http://blog.csdn.net/it_talk/article/details/52448597)
 * [atom](https://atom.io/)
@@ -114,15 +128,10 @@
 * [按钮风格20种](http://www.jq22.com/yanshi4652)
 * [jq slidize - 带有回调的幻灯片插件](http://www.dowebok.com/194.html)
 
-#### 命名规范
-* [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
-* [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)
-
 #### article
 * [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
 * [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 * [github - 这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
-
 
 #### other
 * [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)

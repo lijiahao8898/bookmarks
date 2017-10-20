@@ -6,6 +6,8 @@
 > have been the perfect vessel to continue that mission. — Sean Larkin
 
 ### 网站、社区
+* [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
+> 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例
 * [掘金](http://gold.xitu.io/)
 * [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [web前端网站](http://www.css88.com/)

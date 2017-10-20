@@ -7,7 +7,7 @@
 
 ### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
-  &ensp;&ensp; 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
+  > &ensp;&ensp; 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
 * [NPM](https://www.npmjs.com)
 > &ensp;&ensp; 这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。
 * [掘金](http://gold.xitu.io/)

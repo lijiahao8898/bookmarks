@@ -111,6 +111,8 @@
 
 #### style
 - css
+  * [css盒子模型 · box-sizing](http://www.w3cplus.com/content/css3-box-sizing)
+  * [css布局 · Flex · 阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
   * [css3 · Gradient · 渐变详解](http://www.w3cplus.com/content/css3-gradient)
   * [button · 各种样式风格 · github](https://github.com/alexwolfe/Buttons)
   * [button · 各种样式风格 · 中文文档](http://www.bootcss.com/p/buttons/)

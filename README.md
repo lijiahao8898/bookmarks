@@ -7,8 +7,11 @@
 
 ### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
-> 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例
+> &ensp;&ensp; 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
+* [NPM](https://www.npmjs.com)
+> &ensp;&ensp; 这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。
 * [掘金](http://gold.xitu.io/)
+> &ensp;&ensp; 这是一个综合技术社区，非常活跃，每天都有大量的技术文章发布。
 * [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [web前端网站](http://www.css88.com/)
 * [前端乱炖](http://www.html-js.com/)
@@ -20,6 +23,12 @@
 * [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html)
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
+* [stackoverflow](https://stackoverflow.com)
+> &ensp;&ensp; 无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。
+* [segmentfault](https://segmentfault.com)
+> &ensp;&ensp; 这也是一个相当活跃的技术社区，里面有很多文章。
+* [freeCodeCamp](https://www.freecodecamp.org/)
+> &ensp;&ensp; 这是一个公益性质的技术教学网站。里面有很多交互式的教程，每个知识点就像一个任务，通过完成不同的任务，你的知识和技能不断升级。
 
 ### 规范
 * [编码规范](http://codeguide.bootcss.com/)

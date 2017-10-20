@@ -114,8 +114,10 @@
   * [css3 · Gradient渐变详解](http://www.w3cplus.com/content/css3-gradient)
   * [button · 各种样式风格 · github](https://github.com/alexwolfe/Buttons)
   * [button · 各种样式风格 · 中文文档](http://www.bootcss.com/p/buttons/)
-  * [css盒子模型 · box-sizing](http://www.w3cplus.com/content/css3-box-sizing)
+  * [css盒子模型 · box-sizing · w3c](http://www.w3cplus.com/content/css3-box-sizing)
   * [css布局 · Flex · 阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+  * [css布局 · Flex · w3c](http://www.w3cplus.com/css3/designing-css-layout-with-flexbox.html)
+  * [css布局 · Grid网格布局 · w3c](http://www.w3cplus.com/css3/line-base-placement-layout.html)
   
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)

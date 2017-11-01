@@ -10,7 +10,7 @@
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
   
 - [NPM](https://www.npmjs.com)
-  * [npm 查询最新的包版本](https://registry.npmjs.org/)
+  * [npm 查询最新的包版本](https://registry.npmjs.org/)
 > 这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。
 
 * [掘金](http://gold.xitu.io/)
@@ -50,6 +50,7 @@
   * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
   * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
   * [vue-axios](https://github.com/mzabriskie/axios)
+  * [vue · canvas粒子动画特效 · vue-particles](http://vue-particles.netlify.com/)
 - react
   * [react 中文官网](https://discountry.github.io/react/)
   * [react 中文社区](http://react-china.org/)

@@ -37,6 +37,11 @@
 * [freeCodeCamp](https://www.freecodecamp.org/)
 > 这是一个公益性质的技术教学网站。里面有很多交互式的教程，每个知识点就像一个任务，通过完成不同的任务，你的知识和技能不断升级。
 
+* [站酷](http://www.zcool.com.cn/)
+> 设计师互动平台，可以去看看他们的UI。
+
+* [sass入门教程](http://www.w3cplus.com/sassguide/)
+
 ### 规范
 * [编码规范](http://codeguide.bootcss.com/)
 * [w3schools](http://w3schools.bootcss.com/default.html)
@@ -51,6 +56,8 @@
   * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
   * [vue-axios](https://github.com/mzabriskie/axios)
   * [vue · canvas粒子动画特效 · vue-particles](http://vue-particles.netlify.com/)
+  * [vue - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
+  * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)
 - react
   * [react 中文官网](https://discountry.github.io/react/)
   * [react 中文社区](http://react-china.org/)
@@ -121,11 +128,19 @@
   * [css布局 · Flex · 阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
   * [css布局 · Grid网格布局 · w3c](http://www.w3cplus.com/css3/line-base-placement-layout.html)
   * [css布局 · 未知宽高元素实现水平垂直居中的四种方法](http://www.cnblogs.com/jogen/p/5213566.html)
+  * [60种css3鼠标悬停效果](http://www.jq22.com/yanshi10251)
+  * [9种css3圆形按钮hover鼠标经过动画](http://www.jq22.com/yanshi1882)
+  * [Rem布局的原理解析](https://juejin.im/entry/59eff43df265da431f4a44bf?utm_source=gold_browser_extension)
   
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)
   
 - less
+
+- svg
+  * [SVG文字动画特效插件AnimatedLetters](http://www.jq22.com/jquery-info8966)
+  * [SVG路径动画效果插件Vivus](http://www.jq22.com/jquery-info9266)
+  * [SVG文字变形动画特效](http://www.jq22.com/jquery-info10106)
 
 - icon
   * [Font Awesome](http://fontawesome.dashgame.com/)
@@ -154,9 +169,11 @@
 * [人物头像跟随鼠标动](http://www.jq22.com/yanshi4047)
 * [按钮风格20种](http://www.jq22.com/yanshi4652)
 * [jq slidize - 带有回调的幻灯片插件](http://www.dowebok.com/194.html)
+* [Javript动画引擎anime.js](http://www.jq22.com/jquery-info11249)
 
 #### article
 * [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
+* [掘金 - 10 个独特的 CSS 背景视觉效果](https://juejin.im/entry/59ffb92bf265da43040600f9?utm_source=gold_browser_extension)
 * [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 * [github - 这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
 
@@ -180,3 +197,10 @@
 * [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
 * [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
 * [我想转行之----微信浏览器缓存 - 简书](http://www.jianshu.com/p/cce9511c0914)
+* [掘金 - 傻傻分不清的__proto__与prototype](https://juejin.im/entry/59f88495518825295f5d3d0c?utm_source=gold_browser_extension)
+* [掘金 - 前端跨域常用方法小结](https://juejin.im/post/59df04ec6fb9a04525771b8d?utm_source=gold_browser_extension)
+* [掘金 - 10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例](https://juejin.im/entry/59e40cc06fb9a044fb06cc5c?utm_source=gold_browser_extension)
+
+#### 面试
+
+* [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)

@@ -55,6 +55,7 @@
   * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
   * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
   * [vue-axios](https://github.com/mzabriskie/axios)
+  * [vue-axios中文说明](https://www.kancloud.cn/yunye/axios/234845)
   * [vue · canvas粒子动画特效 · vue-particles](http://vue-particles.netlify.com/)
   * [vue - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
   * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)

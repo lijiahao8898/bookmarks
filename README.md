@@ -27,6 +27,7 @@
 * [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html)
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
+* [网易云课堂](http://m.study.163.com/m/category/front-end-development)
 
 * [stackoverflow](https://stackoverflow.com)
 > 无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。
@@ -185,11 +186,9 @@
 * [如何在vue中使用ajax](http://www.cnblogs.com/yg_zhang/p/6158612.html)
 * [js中的神器promise - 简书](http://www.jianshu.com/p/063f7e490e9a)
 * [ydr](https://ydr.me/)
-* [网易云课堂](http://m.study.163.com/m/category/front-end-development)
 * [腾讯开放平台](http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5)
 * [原生js编写指南](http://geocld.github.io/2016/03/10/javascript_plugin/)
 * [js获取url参数](http://www.cnblogs.com/gaojun/archive/2013/06/09/3129412.html)
-* [css常用效果总结](http://www.haorooms.com/post/css_common)
 * [js实现htmldecode 和 htmlencode](http://blog.csdn.net/cuixiping/article/details/7846806)
 * [玩转vue recource - 简书](http://www.jianshu.com/p/3ce2bd36596e)
 * [github issues](https://github.com/amfe/article/issues)
@@ -197,11 +196,17 @@
 * [jquery 在textarea 指定 位置处 插入内容](http://blog.csdn.net/z69183787/article/details/17393159)
 * [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
 * [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
-* [我想转行之----微信浏览器缓存 - 简书](http://www.jianshu.com/p/cce9511c0914)
-* [掘金 - 傻傻分不清的__proto__与prototype](https://juejin.im/entry/59f88495518825295f5d3d0c?utm_source=gold_browser_extension)
-* [掘金 - 前端跨域常用方法小结](https://juejin.im/post/59df04ec6fb9a04525771b8d?utm_source=gold_browser_extension)
-* [掘金 - 10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例](https://juejin.im/entry/59e40cc06fb9a044fb06cc5c?utm_source=gold_browser_extension)
+- 原型
+    * [掘金 - 傻傻分不清的__proto__与prototype](https://juejin.im/entry/59f88495518825295f5d3d0c?utm_source=gold_browser_extension)
+- style
+    * [掘金 - 10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例](https://juejin.im/entry/59e40cc06fb9a044fb06cc5c?utm_source=gold_browser_extension)
+    * [css常用效果总结](http://www.haorooms.com/post/css_common)
+- DOM
+    * [掘金 - [译]原生JS DOM基本操作](https://dumengjie.github.io/2017/04/18/%E8%AF%91-%E5%8E%9F%E7%94%9FJS-DOM%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/)
+- http
+    * [掘金 - 前端跨域常用方法小结](https://juejin.im/post/59df04ec6fb9a04525771b8d?utm_source=gold_browser_extension)
+    * [知乎 - WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
+    * [简书 - 我想转行之----微信浏览器缓存](http://www.jianshu.com/p/cce9511c0914)
 
 #### 面试
-
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)

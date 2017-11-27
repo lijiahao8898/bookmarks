@@ -60,6 +60,7 @@
   * [vue - canvas粒子动画特效 - vue-particles](http://vue-particles.netlify.com/)
   * [vue - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
   * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)
+  * [一个项目学会前端实现登录拦截](https://segmentfault.com/a/1190000008383094?_ea=1639495)
 - react
   * [react 中文官网](https://discountry.github.io/react/)
   * [react 中文社区](http://react-china.org/)
@@ -136,6 +137,7 @@
   
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)
+  * [简书 - scss入门](http://www.jianshu.com/p/fa379a309c8a)
   
 - less
 
@@ -173,13 +175,11 @@
 * [jq slidize - 带有回调的幻灯片插件](http://www.dowebok.com/194.html)
 * [Javript动画引擎anime.js](http://www.jq22.com/jquery-info11249)
 
-#### article
+#### other
 * [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
 * [掘金 - 10 个独特的 CSS 背景视觉效果](https://juejin.im/entry/59ffb92bf265da43040600f9?utm_source=gold_browser_extension)
 * [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 * [github - 这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
-
-#### other
 * [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)
 * [移动端兼容性问题解决方案](http://www.cnblogs.com/wangpenghui522/p/5398137.html)
 * [js原型链 - 知乎](https://zhuanlan.zhihu.com/p/22189387)
@@ -190,12 +190,15 @@
 * [原生js编写指南](http://geocld.github.io/2016/03/10/javascript_plugin/)
 * [js获取url参数](http://www.cnblogs.com/gaojun/archive/2013/06/09/3129412.html)
 * [js实现htmldecode 和 htmlencode](http://blog.csdn.net/cuixiping/article/details/7846806)
-* [玩转vue recource - 简书](http://www.jianshu.com/p/3ce2bd36596e)
 * [github issues](https://github.com/amfe/article/issues)
 * [最新最好的bootstrap免费主题](http://www.open-open.com/news/view/1bde2f8)
 * [jquery 在textarea 指定 位置处 插入内容](http://blog.csdn.net/z69183787/article/details/17393159)
 * [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
 * [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
+* [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a?utm_source=gold_browser_extension)
+* [一次 H5 「保存页面为图片」 的踩坑之旅](https://juejin.im/post/5a17c5e26fb9a04527254689?utm_source=gold_browser_extension)
+* [视觉差效果展示](http://demos.sucaihuo.com/modals/28/2876/demo/)
+* [10个JavaScript常见BUG及修复方法](https://juejin.im/entry/5a0b9bf76fb9a045211e3b8f?utm_source=gold_browser_extension)
 - 原型
     * [掘金 - 傻傻分不清的__proto__与prototype](https://juejin.im/entry/59f88495518825295f5d3d0c?utm_source=gold_browser_extension)
 - style
@@ -207,6 +210,7 @@
     * [掘金 - 前端跨域常用方法小结](https://juejin.im/post/59df04ec6fb9a04525771b8d?utm_source=gold_browser_extension)
     * [知乎 - WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
     * [简书 - 我想转行之----微信浏览器缓存](http://www.jianshu.com/p/cce9511c0914)
+    * [Web 前端性能优化 : 如何有效提升静态文件的加载速度](https://juejin.im/post/5a0a60896fb9a0450f21731d?utm_source=gold_browser_extension)
 
 #### 面试
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)

@@ -134,6 +134,7 @@
   * [60种css3鼠标悬停效果](http://www.jq22.com/yanshi10251)
   * [9种css3圆形按钮hover鼠标经过动画](http://www.jq22.com/yanshi1882)
   * [Rem布局的原理解析](https://juejin.im/entry/59eff43df265da431f4a44bf?utm_source=gold_browser_extension)
+  * [css蒙版过渡效果](http://www.jq22.com/yanshi17195)
   
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)
@@ -142,9 +143,12 @@
 - less
 
 - svg
-  * [SVG文字动画特效插件AnimatedLetters](http://www.jq22.com/jquery-info8966)
-  * [SVG路径动画效果插件Vivus](http://www.jq22.com/jquery-info9266)
-  * [SVG文字变形动画特效](http://www.jq22.com/jquery-info10106)
+  * [掘金 - 前端动画大乱炖](https://juejin.im/entry/5a1c32626fb9a0451b044633?utm_source=gold_browser_extension)
+  * [svg - 文字动画特效插件AnimatedLetters](http://www.jq22.com/jquery-info8966)
+  * [svg - 路径动画效果插件Vivus](http://www.jq22.com/jquery-info9266)
+  * [svg - 文字变形动画特效](http://www.jq22.com/jquery-info10106)
+  * [canvas - 花瓣](https://jsfiddle.net/gaogy/rzss4mmr/)
+  * [svg - 船](https://jsfiddle.net/gaogy/ac4avoqk/)
 
 - icon
   * [Font Awesome](http://fontawesome.dashgame.com/)
@@ -214,3 +218,9 @@
 
 #### 面试
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)
+
+#### DOTA2
+* [DEV - DOTA2](https://dev.dota2.com/showthread.php?t=58317)
+* [DEV - DOTA2 - ZH](https://www.cnblogs.com/Scohura/p/3573606.html)
+* [VALVE - DOTA2 - API](https://wiki.teamfortress.com/wiki/WebAPI#Dota_2)
+* [知乎 - 如何通过玩家Dota2数字ID获取Steamid 有没有官方API？](https://www.zhihu.com/question/47934766)

@@ -5,6 +5,9 @@
 > I've won. And open source and the incredible blessings it has provided me, 
 > have been the perfect vessel to continue that mission. — Sean Larkin
 
+### chrome的奥秘
+* chrome://chrome-urls/
+
 ### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。

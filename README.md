@@ -8,6 +8,12 @@
 ### chrome的奥秘
 * chrome://chrome-urls/
 
+### 雪碧图在线生成
+* http://alloyteam.github.io/gopng/
+
+### 团队
+* [腾讯 - AlloyTeam](https://github.com/AlloyTeam)
+
 ### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。

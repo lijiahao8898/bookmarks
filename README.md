@@ -52,20 +52,28 @@
 
 * [sass入门教程](http://www.w3cplus.com/sassguide/)
 
+* [配色网站 - uiGradients](https://uigradients.com/#RedMist)
+> 以渐变色彩为主的网站，里面接近上百种渐变配色方案，可根据自己风格来选择搭配，点击左上角，就可以浏览所有的配色图，点击你喜欢的图片就可以查看大图，右上角有免费下载的按钮，选好你喜欢的配色就可以直接下载，还可以分享到你的社交账号。
+
+* [配色网站 - NIPPON COLORS](http://nipponcolors.com/#aonibi)
+> 日本传统配色网站，网站直接给出了各种颜色的CMYK值，RGB值，以色卡的形式呈现，当你点击某个颜色的色卡时，整个网页都会变成成你选择的这个颜色，方便我们查看这种颜色是否适合大面积的使用。在右边以CMYK和RGB两种模式提供精确的颜色数值，这就方便我们在设计时可以直接输入数值就可以选好想要的颜色啦！
+
+* [配色网站 - Palettable](https://www.palettable.io/2C2217)
+
 ### 规范
 * [编码规范](http://codeguide.bootcss.com/)
 * [w3schools](http://w3schools.bootcss.com/default.html)
 * [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
 * [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)
 
-### 框架
+### 框架 (vue、react、angular)
 - vue
-  * [vue 中文网](https://cn.vuejs.org/v2/api/)
-  * [vuex 中文网](https://vuex.vuejs.org/zh-cn/api.html)
+  * [vue - 中文网](https://cn.vuejs.org)
+  * [vuex - 中文网](https://vuex.vuejs.org/zh-cn/)
   * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
-  * [vue-router2](https://router.vuejs.org/zh-cn/index.html)
+  * [vue-router](https://router.vuejs.org/zh-cn/index.html)
   * [vue-axios](https://github.com/mzabriskie/axios)
-  * [vue-axios中文说明](https://www.kancloud.cn/yunye/axios/234845)
+  * [vue-axios - 中文说明](https://www.kancloud.cn/yunye/axios/234845)
   * [vue - canvas粒子动画特效 - vue-particles](http://vue-particles.netlify.com/)
   * [vue - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
   * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)
@@ -75,8 +83,8 @@
   * [react 中文社区](http://react-china.org/)
   * [redux 中文网](http://cn.redux.js.org//index.html)
   * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-- react native
-  * [react native 中文网](http://reactnative.cn/)
+  - react native
+    * [react native 中文网](http://reactnative.cn/)
  
 ### tool
 - git

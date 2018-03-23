@@ -13,6 +13,7 @@
 
 ### 团队
 * [腾讯 - AlloyTeam](https://github.com/AlloyTeam)
+* [有赞 - youzan](https://github.com/youzan)
 
 ### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)

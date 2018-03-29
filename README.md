@@ -94,6 +94,7 @@
   * [git · 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - webpack
   * [webpack 中文网](http://www.css88.com/doc/webpack2/)
+  * [webpack 中文网](https://doc.webpack-china.org/guides/installation/)
 - grunt
 - gulp
 - ESLint

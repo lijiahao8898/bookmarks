@@ -56,13 +56,13 @@
 
 * [配色网站 - Palettable](https://www.palettable.io/2C2217)
 
-### 规范
+#### 规范
 * [编码规范](http://codeguide.bootcss.com/)
 * [w3schools](http://w3schools.bootcss.com/default.html)
 * [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
 * [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)
 
-### 框架 (vue、react、angular)
+#### 框架 (vue、react、angular)
 - vue
   * [vue - 中文网](https://cn.vuejs.org)
   * [vuex - 中文网](https://vuex.vuejs.org/zh-cn/)
@@ -82,7 +82,7 @@
   - react native
     * [react native 中文网](http://reactnative.cn/)
  
-### tool
+#### tool
 - git
   * [git · 简易指南](http://www.bootcss.com/p/git-guide/)
   * [git · 从入门到专家指南](https://progit.bootcss.com/)
@@ -103,7 +103,7 @@
   * [can i use](http://caniuse.com/)
   * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
  
-### bootstrap
+#### bootstrap
 * [bootstrap](http://www.bootcss.com/)
 
 #### node
@@ -149,6 +149,9 @@
   * [9种css3圆形按钮hover鼠标经过动画](http://www.jq22.com/yanshi1882)
   * [Rem布局的原理解析](https://juejin.im/entry/59eff43df265da431f4a44bf?utm_source=gold_browser_extension)
   * [css蒙版过渡效果](http://www.jq22.com/yanshi17195)
+  * [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
+  * [掘金 - 10 个独特的 CSS 背景视觉效果](https://juejin.im/entry/59ffb92bf265da43040600f9?utm_source=gold_browser_extension)
+  * [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
   
 - sass
   * [sass入门](http://www.w3cplus.com/sassguide/)
@@ -194,31 +197,23 @@
 * [Javript动画引擎anime.js](http://www.jq22.com/jquery-info11249)
 
 #### other
-* [掘金 - CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://juejin.im/entry/59c9521e6fb9a00a437b1dbc)
-* [掘金 - 10 个独特的 CSS 背景视觉效果](https://juejin.im/entry/59ffb92bf265da43040600f9?utm_source=gold_browser_extension)
-* [github - CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 * [github - 这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
 * [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)
 * [移动端兼容性问题解决方案](http://www.cnblogs.com/wangpenghui522/p/5398137.html)
-* [js原型链 - 知乎](https://zhuanlan.zhihu.com/p/22189387)
-* [如何在vue中使用ajax](http://www.cnblogs.com/yg_zhang/p/6158612.html)
-* [js中的神器promise - 简书](http://www.jianshu.com/p/063f7e490e9a)
 * [ydr](https://ydr.me/)
 * [腾讯开放平台](http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5)
 * [原生js编写指南](http://geocld.github.io/2016/03/10/javascript_plugin/)
 * [js获取url参数](http://www.cnblogs.com/gaojun/archive/2013/06/09/3129412.html)
 * [js实现htmldecode 和 htmlencode](http://blog.csdn.net/cuixiping/article/details/7846806)
 * [github issues](https://github.com/amfe/article/issues)
-* [最新最好的bootstrap免费主题](http://www.open-open.com/news/view/1bde2f8)
 * [jquery 在textarea 指定 位置处 插入内容](http://blog.csdn.net/z69183787/article/details/17393159)
 * [用JQuery获取textarea或input中的光标位置](http://www.uncletoo.com/html/jsjquery/755.html)
 * [deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
 * [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a?utm_source=gold_browser_extension)
 * [一次 H5 「保存页面为图片」 的踩坑之旅](https://juejin.im/post/5a17c5e26fb9a04527254689?utm_source=gold_browser_extension)
-* [视觉差效果展示](http://demos.sucaihuo.com/modals/28/2876/demo/)
-* [10个JavaScript常见BUG及修复方法](https://juejin.im/entry/5a0b9bf76fb9a045211e3b8f?utm_source=gold_browser_extension)
 - 原型
     * [掘金 - 傻傻分不清的__proto__与prototype](https://juejin.im/entry/59f88495518825295f5d3d0c?utm_source=gold_browser_extension)
+    * [js原型链 - 知乎](https://zhuanlan.zhihu.com/p/22189387)
 - style
     * [掘金 - 10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例](https://juejin.im/entry/59e40cc06fb9a044fb06cc5c?utm_source=gold_browser_extension)
     * [css常用效果总结](http://www.haorooms.com/post/css_common)
@@ -229,6 +224,11 @@
     * [知乎 - WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
     * [简书 - 我想转行之----微信浏览器缓存](http://www.jianshu.com/p/cce9511c0914)
     * [Web 前端性能优化 : 如何有效提升静态文件的加载速度](https://juejin.im/post/5a0a60896fb9a0450f21731d?utm_source=gold_browser_extension)
+- promise
+    * [js中的神器promise - 简书](http://www.jianshu.com/p/063f7e490e9a)
+- 建站风格
+    * [视觉差效果展示](http://demos.sucaihuo.com/modals/28/2876/demo/)
+    * [最新最好的bootstrap免费主题](http://www.open-open.com/news/view/1bde2f8)
 
 #### 面试
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)

@@ -225,10 +225,8 @@
     * [简书 - 我想转行之----微信浏览器缓存](http://www.jianshu.com/p/cce9511c0914)
     * [Web 前端性能优化 : 如何有效提升静态文件的加载速度](https://juejin.im/post/5a0a60896fb9a0450f21731d?utm_source=gold_browser_extension)
 - promise
-    * [js中的神器promise - 简书](http://www.jianshu.com/p/063f7e490e9a)
 - 建站风格
     * [视觉差效果展示](http://demos.sucaihuo.com/modals/28/2876/demo/)
-    * [最新最好的bootstrap免费主题](http://www.open-open.com/news/view/1bde2f8)
 
 #### 面试
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)

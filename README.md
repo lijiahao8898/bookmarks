@@ -5,17 +5,12 @@
 > I've won. And open source and the incredible blessings it has provided me, 
 > have been the perfect vessel to continue that mission. — Sean Larkin
 
-### chrome的奥秘
-* chrome://chrome-urls/
-
-### 雪碧图在线生成
-* http://alloyteam.github.io/gopng/
-
-### 团队
+#### 团队
 * [腾讯 - AlloyTeam](https://github.com/AlloyTeam)
 * [有赞 - youzan](https://github.com/youzan)
+* [饿了么 - ElemeFE](https://github.com/ElemeFE)
 
-### 网站、社区
+#### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
   
@@ -83,7 +78,7 @@
   * [react 中文官网](https://discountry.github.io/react/)
   * [react 中文社区](http://react-china.org/)
   * [redux 中文网](http://cn.redux.js.org//index.html)
-  * [react 入门 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
+  * [react · 入门 · 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
   - react native
     * [react native 中文网](http://reactnative.cn/)
  
@@ -243,3 +238,9 @@
 * [DEV - DOTA2 - ZH](https://www.cnblogs.com/Scohura/p/3573606.html)
 * [VALVE - DOTA2 - API](https://wiki.teamfortress.com/wiki/WebAPI#Dota_2)
 * [知乎 - 如何通过玩家Dota2数字ID获取Steamid 有没有官方API？](https://www.zhihu.com/question/47934766)
+
+#### chrome的奥秘
+* chrome://chrome-urls/
+
+#### 雪碧图在线生成
+* http://alloyteam.github.io/gopng/

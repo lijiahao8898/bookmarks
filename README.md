@@ -9,6 +9,7 @@
 * [腾讯 - AlloyTeam](https://github.com/AlloyTeam)
 * [有赞 - youzan](https://github.com/youzan)
 * [饿了么 - ElemeFE](https://github.com/ElemeFE)
+* [美团点评](https://github.com/Meituan-Dianping)
 
 #### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -20,6 +21,9 @@
 
 * [掘金](http://gold.xitu.io/)
 > 这是一个综合技术社区，非常活跃，每天都有大量的技术文章发布。
+
+* [http://devdocs.io/](http://devdocs.io/)
+> 包含所有的前端内容的api
 
 * [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [web前端网站](http://www.css88.com/)
@@ -183,6 +187,7 @@
 * [jade 中文](http://cnodejs.org/topic/5368adc5cf738dd6090060f2)
 * [KISSY](http://docs.kissyui.com/1.4/docs/html/guideline/get-started.html)
 * [nunjucks](http://mozilla.github.io/nunjucks/)
+* [markdown](https://www.appinn.com/markdown/)
 
 #### IDE or app
 * [websotrm download for mac](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
@@ -238,6 +243,10 @@
 
 #### 面试
 * [掘金 - 面试分享：一年经验初探阿里巴巴前端社招](https://juejin.im/entry/59e94f2351882578dd2e58d9?utm_source=gold_browser_extension)
+* [2018美团前端面试题，两年经验，你能答对几道？](https://juejin.im/post/5a96c6326fb9a063626408c8?utm_source=gold_browser_extension)
+* [Web前端年后跳槽面试复习指南](https://juejin.im/entry/5a9792035188257a5f1eff27?utm_source=gold_browser_extension)
+* [一年前端面试打怪升级之路（一）](https://juejin.im/post/5a98a8be518825556140ad4c)
+* [前端面试考点多？看这些文章就够了](https://juejin.im/post/5aae076d6fb9a028cc6100a9?utm_source=gold_browser_extension)
 
 #### DOTA2
 * [DEV - DOTA2](https://dev.dota2.com/showthread.php?t=58317)

@@ -56,6 +56,11 @@
 
 * [配色网站 - Palettable](https://www.palettable.io/2C2217)
 
+#### 博客
+* [阮一峰](http://www.ruanyifeng.com/home.html)
+* [https://moweide.com/](https://moweide.com/)
+* [https://zouhangwithsweet.github.io/](https://zouhangwithsweet.github.io/)
+
 #### 规范
 * [编码规范](http://codeguide.bootcss.com/)
 * [w3schools](http://w3schools.bootcss.com/default.html)
@@ -171,12 +176,13 @@
   * [Font Awesome](http://fontawesome.dashgame.com/)
   * [lonicons](http://ionicons.com/)
 
-#### 模板语言
+#### template
 * [Juicer](http://juicer.name/docs/docs_zh_cn.html)
 * [underscore](http://www.css88.com/doc/underscore1.8.2/)
 * [jade](http://jade-lang.com/)
 * [jade 中文](http://cnodejs.org/topic/5368adc5cf738dd6090060f2)
 * [KISSY](http://docs.kissyui.com/1.4/docs/html/guideline/get-started.html)
+* [nunjucks](http://mozilla.github.io/nunjucks/)
 
 #### IDE or app
 * [websotrm download for mac](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
@@ -224,6 +230,8 @@
     * [知乎 - WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
     * [简书 - 我想转行之----微信浏览器缓存](http://www.jianshu.com/p/cce9511c0914)
     * [Web 前端性能优化 : 如何有效提升静态文件的加载速度](https://juejin.im/post/5a0a60896fb9a0450f21731d?utm_source=gold_browser_extension)
+    * [别人问你http协议，到底是想问什么？](https://zouhangwithsweet.github.io/2018/03/17/http1.html)
+    * [别人问你http协议，到底是想问什么？（二）http与缓存](https://zouhangwithsweet.github.io/2018/03/19/http2.html)
 - promise
 - 建站风格
     * [视觉差效果展示](http://demos.sucaihuo.com/modals/28/2876/demo/)

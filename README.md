@@ -88,6 +88,8 @@
   * [react 中文社区](http://react-china.org/)
   * [redux 中文网](http://cn.redux.js.org//index.html)
   * [react · 入门 · 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
+  * [react-route 中文网](http://react-guide.github.io/react-router-cn/index.html)
+  * [create-react-app 再配置](https://www.cnblogs.com/xiaohuochai/p/8491055.html)
   - react native
     * [react native 中文网](http://reactnative.cn/)
  

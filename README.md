@@ -113,6 +113,8 @@
   * [json在线转换](http://www.json.cn/)
   * [can i use](http://caniuse.com/)
   * [zeplin](https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696)
+- 调试
+  * [分析运行性能 - chrome](https://developers.google.cn/web/tools/chrome-devtools/rendering-tools/?hl=zh-cn)
  
 #### bootstrap
 * [bootstrap](http://www.bootcss.com/)

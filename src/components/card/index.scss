@@ -1,53 +1,55 @@
 $blue: #57a3f3;
+$gray: #666;
 .card {
   letter-spacing: .5px;
   text-align: left;
   border: 1px solid $blue;
   display: inline-block;
   background: $blue;
-  width: 300px;
-  height: 300px;
+  width: 320px;
+  height: 320px;
   font: {
     size: 14px;
     weight: bold;
   }
   color: #fff;
-  margin: 5px;
+  margin: 8px;
   vertical-align: text-bottom;
   overflow: hidden;
   transition: border .5s, border-radius 1s;
   &:not(:hover) {
-    filter: blur(2px)
+    filter: blur(.5px)
   }
   &:hover {
-    border: 1px solid gray;
+    border: 1px solid $gray;
     border-radius: 8px;
     background: #fff;
     .card {
       &-title {
         font-size: 20px;
-        line-height: 50px;
+        line-height: 40px;
         border-radius: 7px 7px 0 0;
+        box-shadow: 10px 0 10px $blue;
       }
     }
     a {
       display: block;
-      color: #666;
+      color: $gray;
     }
   }
   &-title {
-    font-size: 60px;
-    line-height: 250px;
+    font-size: 45px;
+    line-height: 320px;
     width: inherit;
     text-align: center;
     display: inline-block;
-    transition: font-size .3s, line-height .5s .3s, border-radius 1s;
+    transition: font-size .3s ease-out, line-height .3s .3s, border-radius 1s;
     background: $blue;
   }
   &-list{
     padding: 5px;
     overflow: auto;
-    height: 240px;
+    height: 265px;
   }
   a {
     display: none;

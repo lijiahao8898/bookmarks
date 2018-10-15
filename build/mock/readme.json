@@ -1,0 +1,42 @@
+{
+  "Organizations": [{
+    "title": "腾讯 - AlloyTeam",
+    "url": "https://github.com/AlloyTeam"
+  }, {
+    "title": "有赞 - youzan",
+    "url": "https://github.com/youzan"
+  }, {
+    "title": "饿了么 - ElemeFE",
+    "url": "https://github.com/ElemeFE"
+  }, {
+    "title": "美团点评",
+    "url": "https://github.com/Meituan-Dianping"
+  }],
+  "Website": [{
+    "title": "MDN · web · docs",
+    "url": "https://developer.mozilla.org/zh-CN/docs/Web"
+  }, {
+    "title": "NPM",
+    "url": "https://www.npmjs.com"
+  }, {
+    "title": "掘金",
+    "url": "http://gold.xitu.io/"
+  }, {
+    "title": "http://devdocs.io/",
+    "url": "http://devdocs.io/"
+  }, {
+    "title": "web前端网站",
+    "url": "http://www.css88.com/"
+  }, {
+    "title": "前端乱炖",
+    "url": "http://www.html-js.com/"
+  }],
+  "Document": [{
+    "title": "ES6入门 · 阮一峰",
+    "url": "http://es6.ruanyifeng.com/#docs/intro"
+  }],
+  "Blog": [{
+    "title": "阮一峰",
+    "url": "http://www.ruanyifeng.com/home.html"
+  }]
+}

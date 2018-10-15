@@ -25,7 +25,6 @@
 * [http://devdocs.io/](http://devdocs.io/)
 > 包含所有的前端内容的api
 
-* [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 * [web前端网站](http://www.css88.com/)
 * [前端乱炖](http://www.html-js.com/)
 * [大搜车前端团队博客](http://f2e.souche.com/blog/)
@@ -59,6 +58,9 @@
 > 日本传统配色网站，网站直接给出了各种颜色的CMYK值，RGB值，以色卡的形式呈现，当你点击某个颜色的色卡时，整个网页都会变成成你选择的这个颜色，方便我们查看这种颜色是否适合大面积的使用。在右边以CMYK和RGB两种模式提供精确的颜色数值，这就方便我们在设计时可以直接输入数值就可以选好想要的颜色啦！
 
 * [配色网站 - Palettable](https://www.palettable.io/2C2217)
+
+#### 文档
+* [ES6入门 · 阮一峰](http://es6.ruanyifeng.com/#docs/intro)
 
 #### 博客
 * [阮一峰](http://www.ruanyifeng.com/home.html)

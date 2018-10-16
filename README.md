@@ -14,7 +14,9 @@
 #### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
-  
+
+* [web前端网站](http://www.css88.com/)
+
 - [NPM](https://www.npmjs.com)
   * [npm 查询最新的包版本](https://registry.npmjs.org/)
 > 这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。
@@ -25,11 +27,9 @@
 * [http://devdocs.io/](http://devdocs.io/)
 > 包含所有的前端内容的api
 
-* [web前端网站](http://www.css88.com/)
 * [前端乱炖](http://www.html-js.com/)
-* [大搜车前端团队博客](http://f2e.souche.com/blog/)
 * [FED社区](http://frontenddev.org/)
-* [W3Cfuns](http://www.qdfuns.com/)
+* [qdfuns](http://www.qdfuns.com/)
 * [慕课网](http://www.imooc.com/)
 * [微信公众平台](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433401084&token=&lang=zh_CN)
 * [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html)
@@ -64,6 +64,7 @@
 
 #### 博客
 * [阮一峰](http://www.ruanyifeng.com/home.html)
+* [大搜车前端团队博客](http://f2e.souche.com/blog/)
 * [https://moweide.com/](https://moweide.com/)
 * [https://zouhangwithsweet.github.io/](https://zouhangwithsweet.github.io/)
 

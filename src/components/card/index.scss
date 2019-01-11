@@ -6,8 +6,8 @@ $gray: #666;
   border: 1px solid $blue;
   display: inline-block;
   background: $blue;
-  width: 320px;
-  height: 320px;
+  width: 280px;
+  height: 360px;
   font: {
     size: 14px;
     weight: bold;
@@ -18,7 +18,7 @@ $gray: #666;
   overflow: hidden;
   transition: border .5s, border-radius 1s;
   &:not(:hover) {
-    filter: blur(.5px)
+    filter: blur(.3px)
   }
   &:hover {
     border: 1px solid $gray;
@@ -39,24 +39,42 @@ $gray: #666;
   }
   &-title {
     font-size: 45px;
-    line-height: 320px;
+    line-height: 100px;
     width: inherit;
     text-align: center;
     display: inline-block;
     transition: font-size .3s ease-out, line-height .3s .3s, border-radius 1s;
     background: $blue;
   }
-  &-list{
+  &-list {
     padding: 5px;
     overflow: auto;
-    height: 265px;
+    height: 300px;
+    font-size: 0;
+    &__name{
+      display: inline-block;
+      width: 200px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 12px;
+    }
+  }
+  &-index {
+    display: inline-block;
+    width: 30px;
+    text-align: left;
+    font-size: 12px;
+    vertical-align: top;
   }
   a {
-    display: none;
-    color: #fff;
+    display: block;
+    color: $gray;
     text-decoration: none;
-    &:hover{
-      text-decoration: underline;
+    &:hover {
+      span{
+        text-decoration: underline;
+      }
     }
   }
 }

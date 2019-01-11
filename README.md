@@ -65,8 +65,8 @@
 #### 博客
 * [阮一峰](http://www.ruanyifeng.com/home.html)
 * [大搜车前端团队博客](http://f2e.souche.com/blog/)
-* [https://moweide.com/](https://moweide.com/)
-* [https://zouhangwithsweet.github.io/](https://zouhangwithsweet.github.io/)
+* [技术香波岛](https://moweide.com/)
+* [zou hangoo](https://zouhangwithsweet.github.io/)
 
 #### 规范
 * [编码规范](http://codeguide.bootcss.com/)
@@ -76,7 +76,7 @@
 
 #### 框架 (vue、react、angular)
 - vue
-  * [vue - 中文网](https://cn.vuejs.org)
+  * [vue](https://cn.vuejs.org)
   * [vuex - 中文网](https://vuex.vuejs.org/zh-cn/)
   * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
   * [vue-router](https://router.vuejs.org/zh-cn/index.html)

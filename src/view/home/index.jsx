@@ -6,20 +6,30 @@ class Home extends Component {
     constructor (props) {
         super(props);
         this.state = {
-            organizations: [],
-            website: [],
-            blog: []
+            Team: [],
+            Website: [],
+            Document: [],
+            Blog: [],
+            Rule: [],
+            Vue: [],
+            ReactList: [],
+            Tool: []
         };
     }
 
     componentDidMount () {
         axios.get('./mock/readme.json')
             .then((response) => {
-                const data = response.data;
+                const {Team, Document, Website, Blog, Rule, Vue, ReactList, Tool} = response.data;
                 this.setState({
-                    organizations: data.Organizations,
-                    website: data.Website,
-                    blog: data.Blog
+                    Team,
+                    Document,
+                    Website,
+                    Blog,
+                    Rule,
+                    Vue,
+                    ReactList,
+                    Tool
                 });
             })
             .catch(() => {
@@ -33,9 +43,17 @@ class Home extends Component {
             <div>
                 {Object.keys(state).map((key) => {
                     console.log(key);
-                    return (
-                        <Card cardList={state[key]} type={key} key={key}/>
-                    )
+                    if(key === 'ReactList') {
+                        // 防止React 冲突
+                        const newKey = key.replace('List', '');
+                        return (
+                            <Card cardList={state[key]} type={newKey} key={key}/>
+                        )
+                    } else {
+                        return (
+                            <Card cardList={state[key]} type={key} key={key}/>
+                        )
+                    }
                 })}
             </div>
         );

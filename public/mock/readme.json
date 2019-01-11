@@ -1,5 +1,5 @@
 {
-  "Organizations": [
+  "Team": [
     {
       "title": "腾讯 - AlloyTeam",
       "url": "https://github.com/AlloyTeam"
@@ -20,7 +20,8 @@
   "Website": [
     {
       "title": "MDN · web · docs",
-      "url": "https://developer.mozilla.org/zh-CN/docs/Web"
+      "url": "https://developer.mozilla.org/zh-CN/docs/Web",
+      "desc": "这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。"
     },
     {
       "title": "web前端网站",
@@ -28,15 +29,18 @@
     },
     {
       "title": "NPM",
-      "url": "https://www.npmjs.com"
+      "url": "https://www.npmjs.com",
+      "desc": "这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。"
     },
     {
       "title": "掘金",
-      "url": "http://gold.xitu.io/"
+      "url": "http://gold.xitu.io/",
+      "desc": "这是一个综合技术社区，非常活跃，每天都有大量的技术文章发布。"
     },
     {
       "title": "http://devdocs.io/",
-      "url": "http://devdocs.io/"
+      "url": "http://devdocs.io/",
+      "desc": "包含所有的前端内容的api"
     },
     {
       "title": "前端乱炖",
@@ -49,6 +53,68 @@
     {
       "title": "qdfuns",
       "url": "http://www.qdfuns.com/"
+    },
+    {
+      "title": "慕课网",
+      "url": "http://www.imooc.com/"
+    },
+    {
+      "title": "微信公众平台",
+      "url": "https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433401084&token=&lang=zh_CN"
+    },
+    {
+      "title": "微信公众平台开发者文档",
+      "url": "http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html"
+    },
+    {
+      "title": "前端资源导航",
+      "url": "http://www.css88.com/nav/"
+    },
+    {
+      "title": "51CTO",
+      "url": "http://blog.51cto.com/"
+    },
+    {
+      "title": "网易云课堂",
+      "url": "http://m.study.163.com/m/category/front-end-development"
+    },
+    {
+      "title": "stackoverflow",
+      "url": "https://stackoverflow.com",
+      "desc": "无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。"
+    },
+    {
+      "title": "segmentfault",
+      "url": "https://segmentfault.com",
+      "desc": "这也是一个相当活跃的技术社区，里面有很多文章。"
+    },
+    {
+      "title": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "desc": "这是一个公益性质的技术教学网站。里面有很多交互式的教程，每个知识点就像一个任务，通过完成不同的任务，你的知识和技能不断升级。"
+    },
+    {
+      "title": "站酷",
+      "url": "http://www.zcool.com.cn/",
+      "desc": "设计师互动平台，可以去看看他们的UI。"
+    },
+    {
+      "title": "sass入门教程",
+      "url": "http://www.w3cplus.com/sassguide/"
+    },
+    {
+      "title": "配色网站 - uiGradients",
+      "url": "https://uigradients.com/#RedMist",
+      "desc": "以渐变色彩为主的网站，里面接近上百种渐变配色方案，可根据自己风格来选择搭配，点击左上角，就可以浏览所有的配色图，点击你喜欢的图片就可以查看大图，右上角有免费下载的按钮，选好你喜欢的配色就可以直接下载，还可以分享到你的社交账号。"
+    },
+    {
+      "title": "配色网站 - NIPPON COLORS",
+      "url": "http://nipponcolors.com/#aonibi",
+      "desc": "日本传统配色网站，网站直接给出了各种颜色的CMYK值，RGB值，以色卡的形式呈现，当你点击某个颜色的色卡时，整个网页都会变成成你选择的这个颜色，方便我们查看这种颜色是否适合大面积的使用。在右边以CMYK和RGB两种模式提供精确的颜色数值，这就方便我们在设计时可以直接输入数值就可以选好想要的颜色啦！"
+    },
+    {
+      "title": "配色网站 - Palettable",
+      "url": "https://www.palettable.io/2C2217"
     }
   ],
   "Document": [
@@ -65,9 +131,40 @@
     {
       "title": "大搜车前端团队博客",
       "url": "http://f2e.souche.com/blog/"
+    },
+    {
+      "title": "技术香波岛",
+      "url": "https://moweide.com//"
+    },
+    {
+      "title": "zou hangoo",
+      "url": "https://zouhangwithsweet.github.io/"
     }
   ],
-  "Vue": [{
-
-  }]
+  "Rule": [
+    {
+      "title": "编码规范",
+      "url": "http://codeguide.bootcss.com/"
+    },
+    {
+      "title": "w3schools",
+      "url": "http://w3schools.bootcss.com/default.html"
+    },
+    {
+      "title": "http://xhtml.blog.51cto.com/3754279/1749450",
+      "url": "http://xhtml.blog.51cto.com/3754279/1749450"
+    },
+    {
+      "title": "腾讯团队规范",
+      "url": "http://alloyteam.github.io/CodeGuide/"
+    }
+  ],
+  "Vue": [
+    {
+      "title": "Vue",
+      "url": "https://cn.vuejs.org"
+    }
+  ],
+  "ReactList": [],
+  "Tool": []
 }

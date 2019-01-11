@@ -11,7 +11,10 @@ class Card extends Component {
                     {
                         cardList.map((item, index) => {
                             return (
-                                <a href={item.url} target="_blank" key={index}>{item.title.toUpperCase()}</a>
+                                <a href={item.url} target="_blank" key={index}>
+                                    <span className="card-index">{index + 1}.</span>
+                                    <span className="card-list__name">{item.title.toUpperCase()}</span>
+                                </a>
                             )
                         })
                     }

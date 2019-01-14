@@ -24,18 +24,33 @@
       "desc": "这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。"
     },
     {
-      "title": "web前端网站",
-      "url": "http://www.css88.com/"
+      "title": "stackoverflow",
+      "url": "https://stackoverflow.com",
+      "desc": "无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。"
     },
     {
       "title": "NPM",
       "url": "https://www.npmjs.com",
-      "desc": "这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。"
+      "desc": "这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。",
+      "children": [
+        {
+          "title": "npm 查询最新的包版本 url+/name",
+          "url": "https://registry.npmjs.org/"
+        }
+      ]
     },
     {
       "title": "掘金",
       "url": "http://gold.xitu.io/",
       "desc": "这是一个综合技术社区，非常活跃，每天都有大量的技术文章发布。"
+    },
+    {
+      "title": "慕课网",
+      "url": "http://www.imooc.com/"
+    },
+    {
+      "title": "web前端网站",
+      "url": "http://www.css88.com/"
     },
     {
       "title": "http://devdocs.io/",
@@ -53,10 +68,6 @@
     {
       "title": "qdfuns",
       "url": "http://www.qdfuns.com/"
-    },
-    {
-      "title": "慕课网",
-      "url": "http://www.imooc.com/"
     },
     {
       "title": "微信公众平台",
@@ -77,11 +88,6 @@
     {
       "title": "网易云课堂",
       "url": "http://m.study.163.com/m/category/front-end-development"
-    },
-    {
-      "title": "stackoverflow",
-      "url": "https://stackoverflow.com",
-      "desc": "无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。"
     },
     {
       "title": "segmentfault",
@@ -129,7 +135,7 @@
       "url": "http://www.ruanyifeng.com/home.html"
     },
     {
-      "title": "大搜车前端团队博客",
+      "title": "大搜车无线团队博客",
       "url": "http://f2e.souche.com/blog/"
     },
     {
@@ -139,6 +145,10 @@
     {
       "title": "zou hangoo",
       "url": "https://zouhangwithsweet.github.io/"
+    },
+    {
+      "title": "我叫MT",
+      "url": "https://txs1992.github.io/mt-blog/"
     }
   ],
   "Rule": [
@@ -159,10 +169,50 @@
       "url": "http://alloyteam.github.io/CodeGuide/"
     }
   ],
+  "Ajax": [
+    {
+      "title": "axios",
+      "url": "https://github.com/mzabriskie/axios"
+    },
+    {
+      "title": "axios - zh-cn",
+      "url": "https://www.kancloud.cn/yunye/axios/234845"
+    }
+  ],
   "Vue": [
     {
       "title": "Vue",
-      "url": "https://cn.vuejs.org"
+      "url": "https://cn.vuejs.org",
+      "children": [
+        {
+          "title": "vue-particles - canvas粒子动画特效",
+          "url": "http://vue-particles.netlify.com/"
+        },
+        {
+          "title": "掘金 - 为vue项目添加骨架屏",
+          "url": "https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension"
+        },
+        {
+          "title": "掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析",
+          "url": "https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension"
+        },
+        {
+          "title": "一个项目学会前端实现登录拦截",
+          "url": "https://segmentfault.com/a/1190000008383094?_ea=1639495"
+        }
+      ]
+    },
+    {
+      "title": "Vuex",
+      "url": "https://vuex.vuejs.org"
+    },
+    {
+      "title": "vue-router",
+      "url": "https://router.vuejs.org"
+    },
+    {
+      "title": "vue-loader",
+      "url": "https://vue-loader.vuejs.org"
     }
   ],
   "ReactList": [],

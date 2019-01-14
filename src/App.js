@@ -7,7 +7,7 @@ class App extends Component {
     render () {
         return (
             <div className="App" style={{
-                width: '1200px',
+                minWidth: '1200px',
                 margin: '0 auto'
             }}>
                 <Home/>

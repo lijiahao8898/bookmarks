@@ -1,5 +1,5 @@
 ## bookmarks
-书签工程 - 记录该记录的，留下该留下的。
+书签工程 - 记录该记录的，留下该留下的。[在线地址](https://lijiahao8898.github.io/bookmarks/)
 
 > At the end of the day if I can change one persons life for the better, 
 > I've won. And open source and the incredible blessings it has provided me, 
@@ -15,48 +15,27 @@
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
 > 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
 
-* [web前端网站](http://www.css88.com/)
-
+* [stackoverflow](https://stackoverflow.com)
 - [NPM](https://www.npmjs.com)
-  * [npm 查询最新的包版本](https://registry.npmjs.org/)
-> 这里有大量的JavaScript 类库，遇到一个新需求，先去上面看看有没有相关的类库，如果有，直接用就可以了。
-
+  * [npm 查询最新的包版本 url+/name](https://registry.npmjs.org/)
 * [掘金](http://gold.xitu.io/)
-> 这是一个综合技术社区，非常活跃，每天都有大量的技术文章发布。
-
+* [慕课网](http://www.imooc.com/)
+* [web前端网站](http://www.css88.com/)
 * [http://devdocs.io/](http://devdocs.io/)
-> 包含所有的前端内容的api
-
 * [前端乱炖](http://www.html-js.com/)
 * [FED社区](http://frontenddev.org/)
 * [qdfuns](http://www.qdfuns.com/)
-* [慕课网](http://www.imooc.com/)
 * [微信公众平台](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433401084&token=&lang=zh_CN)
 * [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html)
 * [前端资源导航](http://www.css88.com/nav/)
 * [51CTO](http://blog.51cto.com/)
 * [网易云课堂](http://m.study.163.com/m/category/front-end-development)
-
-* [stackoverflow](https://stackoverflow.com)
-> 无论是学习还是工作中你肯定会遇到很多问题，上去搜一搜，你会发现，原来早就有答案了。
-
 * [segmentfault](https://segmentfault.com)
-> 这也是一个相当活跃的技术社区，里面有很多文章。
-
 * [freeCodeCamp](https://www.freecodecamp.org/)
-> 这是一个公益性质的技术教学网站。里面有很多交互式的教程，每个知识点就像一个任务，通过完成不同的任务，你的知识和技能不断升级。
-
 * [站酷](http://www.zcool.com.cn/)
-> 设计师互动平台，可以去看看他们的UI。
-
 * [sass入门教程](http://www.w3cplus.com/sassguide/)
-
 * [配色网站 - uiGradients](https://uigradients.com/#RedMist)
-> 以渐变色彩为主的网站，里面接近上百种渐变配色方案，可根据自己风格来选择搭配，点击左上角，就可以浏览所有的配色图，点击你喜欢的图片就可以查看大图，右上角有免费下载的按钮，选好你喜欢的配色就可以直接下载，还可以分享到你的社交账号。
-
 * [配色网站 - NIPPON COLORS](http://nipponcolors.com/#aonibi)
-> 日本传统配色网站，网站直接给出了各种颜色的CMYK值，RGB值，以色卡的形式呈现，当你点击某个颜色的色卡时，整个网页都会变成成你选择的这个颜色，方便我们查看这种颜色是否适合大面积的使用。在右边以CMYK和RGB两种模式提供精确的颜色数值，这就方便我们在设计时可以直接输入数值就可以选好想要的颜色啦！
-
 * [配色网站 - Palettable](https://www.palettable.io/2C2217)
 
 #### 文档
@@ -64,9 +43,10 @@
 
 #### 博客
 * [阮一峰](http://www.ruanyifeng.com/home.html)
-* [大搜车前端团队博客](http://f2e.souche.com/blog/)
+* [大搜车无线团队博客](http://f2e.souche.com/blog/)
 * [技术香波岛](https://moweide.com/)
 * [zou hangoo](https://zouhangwithsweet.github.io/)
+* [我叫MT](https://txs1992.github.io/mt-blog/)
 
 #### 规范
 * [编码规范](http://codeguide.bootcss.com/)
@@ -74,25 +54,27 @@
 * [http://xhtml.blog.51cto.com/3754279/1749450](http://xhtml.blog.51cto.com/3754279/1749450)
 * [http://alloyteam.github.io/CodeGuide/](http://alloyteam.github.io/CodeGuide/)
 
+#### AJAX
+* [axios](https://github.com/mzabriskie/axios)
+* [axios - zh-cn](https://www.kancloud.cn/yunye/axios/234845)
+
 #### 框架 (vue、react、angular)
-- vue
-  * [vue](https://cn.vuejs.org)
-  * [vuex - 中文网](https://vuex.vuejs.org/zh-cn/)
-  * [vue-loader 中文网](https://vue-loader.vuejs.org/zh-cn/)
-  * [vue-router](https://router.vuejs.org/zh-cn/index.html)
-  * [vue-axios](https://github.com/mzabriskie/axios)
-  * [vue-axios - 中文说明](https://www.kancloud.cn/yunye/axios/234845)
-  * [vue - canvas粒子动画特效 - vue-particles](http://vue-particles.netlify.com/)
-  * [vue - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
-  * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)
-  * [一个项目学会前端实现登录拦截](https://segmentfault.com/a/1190000008383094?_ea=1639495)
+- Vue
+  - [Vue](https://cn.vuejs.org)
+    * [vue-particles - canvas粒子动画特效](http://vue-particles.netlify.com/)
+    * [掘金 - 为vue项目添加骨架屏](https://juejin.im/entry/59e425296fb9a0451542ed44?utm_source=gold_browser_extension)
+    * [掘金 - Vuejs渡劫系列二：最全的vue-cli项目下的配置简析](https://juejin.im/entry/59e8620f6fb9a04522069cc4?utm_source=gold_browser_extension)
+    * [一个项目学会前端实现登录拦截](https://segmentfault.com/a/1190000008383094?_ea=1639495)
+  * [Vuex](https://vuex.vuejs.org)
+  * [vue-loader](https://vue-loader.vuejs.org)
+  * [vue-router](https://router.vuejs.org)
 - react
-  * [react 中文官网](https://discountry.github.io/react/)
-  * [react 中文社区](http://react-china.org/)
-  * [redux 中文网](http://cn.redux.js.org//index.html)
+  * [react](https://discountry.github.io/react/)
+  * [react社区](http://react-china.org/)
+  * [redux](http://cn.redux.js.org/index.html)
   * [react · 入门 · 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-  * [react-route 中文网](http://react-guide.github.io/react-router-cn/index.html)
-  * [create-react-app 再配置](https://www.cnblogs.com/xiaohuochai/p/8491055.html)
+  * [react-route](http://react-guide.github.io/react-router-cn/index.html)
+  * [create-react-app再配置](https://www.cnblogs.com/xiaohuochai/p/8491055.html)
   - react native
     * [react native 中文网](http://reactnative.cn/)
  

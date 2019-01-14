@@ -11,6 +11,7 @@ class Home extends Component {
             Document: [],
             Blog: [],
             Rule: [],
+            Ajax: [],
             Vue: [],
             ReactList: [],
             Tool: []
@@ -20,13 +21,14 @@ class Home extends Component {
     componentDidMount () {
         axios.get('./mock/readme.json')
             .then((response) => {
-                const {Team, Document, Website, Blog, Rule, Vue, ReactList, Tool} = response.data;
+                const {Team, Document, Website, Blog, Rule, Ajax, Vue, ReactList, Tool} = response.data;
                 this.setState({
                     Team,
                     Document,
                     Website,
                     Blog,
                     Rule,
+                    Ajax,
                     Vue,
                     ReactList,
                     Tool
@@ -40,19 +42,19 @@ class Home extends Component {
     render () {
         const state = this.state;
         return (
-            <div>
+            <div style={{textAlign: 'left'}}>
                 {Object.keys(state).map((key) => {
                     console.log(key);
-                    if(key === 'ReactList') {
+                    if (key === 'ReactList') {
                         // 防止React 冲突
                         const newKey = key.replace('List', '');
                         return (
                             <Card cardList={state[key]} type={newKey} key={key}/>
-                        )
+                        );
                     } else {
                         return (
                             <Card cardList={state[key]} type={key} key={key}/>
-                        )
+                        );
                     }
                 })}
             </div>

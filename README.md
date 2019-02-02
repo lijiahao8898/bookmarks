@@ -13,8 +13,6 @@
 
 #### 网站、社区
 * [MDN · web · docs](https://developer.mozilla.org/zh-CN/docs/Web)
-> 这个网站以精美详细的文档著名。想CSS，HTML，Javascript的一些语法和API，都有详细的描述，并且有简单的实例。
-
 * [stackoverflow](https://stackoverflow.com)
 - [NPM](https://www.npmjs.com)
   * [npm 查询最新的包版本 url+/name](https://registry.npmjs.org/)
@@ -56,7 +54,7 @@
 
 #### AJAX
 * [axios](https://github.com/mzabriskie/axios)
-* [axios - zh-cn](https://www.kancloud.cn/yunye/axios/234845)
+* [axios-cn](https://www.kancloud.cn/yunye/axios/234845)
 
 #### 框架 (vue、react、angular)
 - Vue
@@ -69,9 +67,9 @@
   * [vue-loader](https://vue-loader.vuejs.org)
   * [vue-router](https://router.vuejs.org)
 - react
-  * [react](https://discountry.github.io/react/)
+  * [react-cn](https://discountry.github.io/react/)
   * [react社区](http://react-china.org/)
-  * [redux](http://cn.redux.js.org/index.html)
+  * [redux-cn](http://cn.redux.js.org/index.html)
   * [react · 入门 · 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
   * [react-route](http://react-guide.github.io/react-router-cn/index.html)
   * [create-react-app再配置](https://www.cnblogs.com/xiaohuochai/p/8491055.html)

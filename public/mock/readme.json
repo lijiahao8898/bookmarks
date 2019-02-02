@@ -175,7 +175,7 @@
       "url": "https://github.com/mzabriskie/axios"
     },
     {
-      "title": "axios - zh-cn",
+      "title": "axios-cn",
       "url": "https://www.kancloud.cn/yunye/axios/234845"
     }
   ],
@@ -215,6 +215,124 @@
       "url": "https://vue-loader.vuejs.org"
     }
   ],
-  "ReactList": [],
-  "Tool": []
+  "ReactList": [
+    {
+      "title": "react-cn",
+      "url": "https://discountry.github.io/react/"
+    },
+    {
+      "title": "react社区",
+      "url": "http://react-china.org/"
+    },
+    {
+      "title": "redux-cn",
+      "url": "http://cn.redux.js.org/index.html"
+    },
+    {
+      "title": "react · 入门 · 阮一峰",
+      "url": "http://www.ruanyifeng.com/blog/2015/03/react.html"
+    },
+    {
+      "title": "react-route",
+      "url": "http://react-guide.github.io/react-router-cn/index.html"
+    },
+    {
+      "title": "create-react-app再配置",
+      "url": "https://www.cnblogs.com/xiaohuochai/p/8491055.html"
+    },
+    {
+      "title": "react native",
+      "url": "",
+      "children": [
+        {
+          "title": "react native 中文网",
+          "url": "http://reactnative.cn/"
+        }
+      ]
+    }
+  ],
+  "Tool": [
+    {
+      "title": "git",
+      "url": "",
+      "children": [
+        {
+          "title": "git · 简易指南",
+          "url": "http://www.bootcss.com/p/git-guide/"
+        },
+        {
+          "title": "git · 从入门到专家指南",
+          "url": "https://progit.bootcss.com/"
+        },
+        {
+          "title": "git · 廖雪峰",
+          "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000"
+        }
+      ]
+    },
+    {
+      "title": "webpack",
+      "url": "",
+      "children": [
+        {
+          "title": "webpack 中文网",
+          "url": "http://www.css88.com/doc/webpack2/"
+        },
+        {
+          "title": "webpack 中文网",
+          "url": "https://doc.webpack-china.org/guides/installation/"
+        }
+      ]
+    },
+    {
+      "title": "ESLint",
+      "url": "http://eslint.cn/docs/rules/"
+    },
+    {
+      "title": "babel",
+      "url": "",
+      "children": [
+        {
+          "title": "babel 中文网",
+          "url": "http://babeljs.cn/"
+        },
+        {
+          "title": "babel - 阮一峰",
+          "url": "http://www.ruanyifeng.com/blog/2016/01/babel.html"
+        },
+        {
+          "title": ".babelrc配置简单解析",
+          "url": "https://excaliburhan.com/post/babel-preset-and-plugins.html"
+        }
+      ]
+    },
+    {
+      "title": "help me",
+      "url": "",
+      "children": [
+        {
+          "title": "json在线转换",
+          "url": "http://www.json.cn/"
+        },
+        {
+          "title": "can i use",
+          "url": "http://caniuse.com/"
+        },
+        {
+          "title": "zeplin",
+          "url": "https://app.zeplin.io/project/598a84ee04dc66565d264b23/screen/598a8526d435982213f74696"
+        }
+      ]
+    },
+    {
+      "title": "调试",
+      "url": "",
+      "children": [
+        {
+          "title": "分析运行性能 - chrome",
+          "url": "https://developers.google.cn/web/tools/chrome-devtools/rendering-tools/?hl=zh-cn"
+        }
+      ]
+    }
+  ]
 }
